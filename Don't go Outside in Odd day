@@ -6,6 +6,6 @@ for i in range(0,9):
         even+=1
     else:
         odd+=1
-print(l)
+print("Series of numbers :",l)
 print("Number of even numbers : ",even)
 print("Number of odd numbers : ",odd)
