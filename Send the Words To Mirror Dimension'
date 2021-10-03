@@ -1,3 +1,9 @@
 s = input("Enter a word : ")
 r = s[::-1]
 print("Reverse word :",r)
+
+
+
+Output :-
+Enter a word : Edyoda
+Reverse word : adoydE
