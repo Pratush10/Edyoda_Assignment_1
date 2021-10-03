@@ -9,3 +9,9 @@ for i in range(0,9):
 print("Series of numbers :",l)
 print("Number of even numbers : ",even)
 print("Number of odd numbers : ",odd)
+
+
+Output :-
+Series of numbers : [1, 2, 3, 4, 5, 6, 7, 8, 9]
+Number of even numbers :  4
+Number of odd numbers :  5
